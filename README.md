@@ -1,7 +1,12 @@
 <p align="center">
-  <!-- Exact Replicated Purple-to-Cyan Wavy Banner -->
-  <img src="https://vercel.app" width="100%" alt="Adithya A Shetty Wavy Banner" />
+  <!-- 100% Stable Local Animated Asset Link -->
+  <img src="./banner.svg" width="100%" alt="Adithya A Shetty Animated Banner" />
 </p>
+
+<p align="center">
+  <font color="#58A6FF" size="5"><b>Computer Science & Engineering @ SJEC</b></font>
+</p>
+
 
 
 <p align="center">
