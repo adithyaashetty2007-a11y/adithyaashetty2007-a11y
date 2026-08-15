@@ -1,7 +1,8 @@
 <p align="center">
-  <!-- Dynamic Cloud Banner - Renders perfectly through GitHub Proxy -->
-  <img src="https://vercel.app" width="100%" alt="Adithya A Shetty Header Banner" />
+  <!-- Exact Replicated Purple-to-Cyan Wavy Banner -->
+  <img src="https://vercel.app" width="100%" alt="Adithya A Shetty Wavy Banner" />
 </p>
+
 
 <p align="center">
   <font color="#58A6FF" size="5"><b>Computer Science & Engineering @ SJEC</b></font>
