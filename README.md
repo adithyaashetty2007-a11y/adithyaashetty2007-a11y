@@ -15,10 +15,10 @@
 
 <p align="center">
   <!-- Interactive Pill Buttons Row -->
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="linkedin.com/in/adithya-a-shetty-421097382" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
   <a href="https://skills.google" target="_blank"><img src="https://shields.io" alt="Google Cloud" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="GitHub" /></a>
-  <a href="https://github.io" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
+  <a href="https://github.com/adithyaashetty2007-a11y" target="_blank"><img src="https://shields.io" alt="GitHub" /></a>
+  <a href="https://adithyaashetty2007-a11y.github.io/adithya-portfolio/" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
 </p>
 
 ---
